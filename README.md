@@ -22,7 +22,7 @@ Como Rodar o Projeto
 Clone o repositório:
 
 bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/FabricioIkehara/github-wiki.git
 Instale as dependências:
 
 bash
